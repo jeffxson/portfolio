@@ -15,7 +15,7 @@ const Resume = () =>  {
                 <h6>Anyanwu Ugochukwu</h6>
 
 <p>
-      Innovative and deadline-driven Web Developer <br/>
+      Innovative and deadline-driven Web Developer with a passion for web design <br/>
 with 3+ years of experience polished deliverable. Knowledgeable Web Developer brings superior front- and back-end design to promote organization-specific website presence. Thorough comprehension of complex HTML, CSS and JavaScript programming languages to generate custom webpage design.
 </p>
 <ul>
@@ -62,13 +62,16 @@ with 3+ years of experience polished deliverable. Knowledgeable Web Developer br
 <h6>Swintec Computer institute </h6>
             <i>2018-2019 </i>  <i> Owerri, Imo.</i>
             <br/>
-            learnt Basic progamming languages introduction and reviewing of projects languages included <br/>
+            learnt Basic progamming languages and creation of projects languages <br/>
             <ul>
     <li> JavaScript</li>
     <li> REACT  </li>
     <li> CSS </li>
     <li>  HTML</li>
     <li> BOOTSTRAP</li>
+    <br/>
+    Orders includes:
+    <br/>
     <li> POSTMAN </li>
     <li>MONGODB  </li>
 
