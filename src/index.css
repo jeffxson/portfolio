@@ -1,0 +1,163 @@
+.ml-auto {
+  margin-left: auto;
+}
+main {
+  min-height: 75vh;
+}
+main,
+div {
+  height: 100%;
+}
+
+i {
+  padding: 4px;
+}
+.her1 {
+  background-image: url("/src/profolio/java.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 22vh;
+  padding-bottom: 1vh;
+}
+.her1 h1 {
+  color: rgb(230, 230, 230);
+}
+.her1 h2 {
+  color: rgb(230, 230, 230);
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: 0.15em solid whitesmoke; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+
+  animation: typing 6.5s steps(40, end), blink-caret 0.75s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 33%;
+  }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: whitesmoke;
+  }
+}
+a:hover {
+  color: teal;
+}
+
+.svg {
+  border-radius: 50%;
+  margin-top: 217px;
+  margin-left: 20px;
+}
+.h11 {
+  padding-top: 40px;
+}
+.p11 {
+  font-size: 1.2em;
+}
+.container1 {
+  margin: 0px;
+  min-width: 30vh;
+}
+
+.logo {
+  border: 7px rgb(130, 129, 133) solid;
+  border-radius: 50%;
+  max-width: 280px;
+  margin-left: 0px;
+  margin-top: 20px;
+}
+.type h2 {
+  color: rgb(78, 182, 252);
+}
+.basic-info li {
+  padding: 15px;
+  font-size: 17px;
+}
+.basic-info ul {
+  text-decoration: none;
+}
+.new-box {
+  display: flex;
+  margin: 0px;
+}
+hr {
+  height: 19px;
+  background: -webkit-gradient(
+    linear,
+    0 0,
+    100% 0,
+    from(black),
+    to(rgb(78, 182, 252)),
+    color-stop(100%, black)
+  );
+
+  margin-left: 20px;
+}
+.skill {
+  margin-top: 20px;
+}
+.skill p {
+  margin-bottom: 5px;
+  margin-top: 50px;
+
+  text-align: justify;
+  text-align: center;
+}
+.he1 {
+  width: 100%;
+}
+.he2 {
+  width: 80%;
+}
+.he3 {
+  width: 70%;
+}
+.he4 {
+  width: 85%;
+}
+.he5 {
+  width: 90%;
+}
+
+.resu {
+  background-color: whitesmoke;
+}
+
+.rh {
+  padding-top: 34px;
+  margin-bottom: 20px;
+}
+.container2 {
+  display: flex;
+}
+.boxin1 {
+  flex: 1;
+  min-width: 24vh;
+}
+.boxin2 {
+  flex: 1;
+  min-width: 24vh;
+  padding-left: 20px;
+  border-left: 6px solid rgb(28, 131, 179);
+}
+
+.pp1 {
+  font-size: 1.2em;
+}
+.container2 h4 {
+  padding: 25px;
+}
