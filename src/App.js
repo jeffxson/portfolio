@@ -14,9 +14,9 @@ const App = () => {
      <Header />
     <main className='py'> 
      <Route path= '/' component= {Homescreen} exact /> 
-     <Route path= '/about' component= {AboutScreen} exact /> 
-     <Route path= '/resume' component= {Resume} exact /> 
-     <Route path= '/contact' component= {ContactUs} exact /> 
+     <Route path= '/about' component= {AboutScreen}  /> 
+     <Route path= '/resume' component= {Resume}  /> 
+     <Route path= '/contact' component= {ContactUs}  /> 
     
     </main>
   </Router>
