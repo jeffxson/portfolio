@@ -43,7 +43,28 @@ const AboutScreen = () => {
             
                    
                </div>
-                
+                   <div>
+            <h2>Projects </h2>
+            <div className= 'new-box' >
+                    <div className ='boxer1'>
+                         <ul className = "basic-info">
+                      
+                       <li> <b>E-commerce :</b> <a href='https://mcbee.herokuapp.com/'>  Mcbee is an E-commerce website for buying different kinds of goods. </a>  </li> 
+                      
+                       <li> <b>Immaculate :</b> <a href='https://pedantic-easley-e837e3.netlify.app/'>  Immaculate Eye Clinic is a website for an eye clinic hospital which serves the purpose of providing necessary information to patients. </a><br/> </li> 
+                      
+                       <li> <b>JoyRide :</b> <a href='https://joyrideapp.herokuapp.com/'> Joyride is a web application for dispatch rides. where a usercreates an order and the order is dispatched by the dispatchers.
+
+</a><br/> </li> 
+                      
+                       </ul>
+                    </div>
+                   
+               </div>
+               
+            
+
+            </div>
               </div>
             </div>
             </div>
