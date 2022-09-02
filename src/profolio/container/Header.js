@@ -14,13 +14,13 @@ const Header = () => {
         <Nav.Link href="/"><i className = "fas fa-home"></i> Home</Nav.Link>
         <Nav.Link href="/about"> <i className = "fas fa-user"></i> About</Nav.Link>
         <Nav.Link href="/resume"><i className = "fas fa-book"></i>Resume</Nav.Link>
-        <Nav.Link href="/contact"><i className = "fas fa-phone"></i> Contact</Nav.Link>
+        <Nav.Link href="/contact"><i className = "fas fa-phone"></i> Contact Us</Nav.Link>
       </Nav>
     </Navbar.Collapse>
     </Container>
 </Navbar>
 </header>
-   
+    
     )
 }
 
